@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@color/swatch1_2"
+        android:padding="20dp">
+        <ImageView
+            android:id="@+id/img_popupBadge_icon"
+            android:layout_width="120dp"
+            android:layout_height="120dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="20dp">
+        <TextView
+            android:id="@+id/txt_popupBadge_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="badge_name"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/txt_popupBadge_point"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10pt"
+            android:textSize="30sp"
+            android:textStyle="bold|italic"
+            android:layout_marginTop="10dp"/>
+        <TextView
+            android:id="@+id/txt_popupBadge_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Insert badge description"
+            android:layout_marginTop="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:textAlignment="center"/>
+    </LinearLayout>
+
+</LinearLayout>

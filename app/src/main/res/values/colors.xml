@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Biru">#6ad8eb</color>
+
+    <color name="swatch1_1">#f5f9fb</color>
+    <color name="swatch1_2">#d8f0f7</color>
+    <color name="swatch1_3">#93d5f7</color>
+    <color name="swatch1_4">#ccdbe4</color>
+    <color name="swatch1_5">#e7d4eb</color>
+    <color name="swatch1_6">#1eaafd</color>
+    <color name="swatch1_7">#758ba6</color>
+
+    <color name="swatch2_1">#F7E2E2</color>
+    <color name="swatch2_2">#E7B9B9</color>
+    <color name="swatch2_3">#526464</color>
+    <color name="swatch2_4">#96B1B1</color>
+    <color name="swatch2_5">#8A6262</color>
+
+    <color name="pink_1">#f8ecec</color>
+    <color name="pink_2">#ebc6c6</color>
+    <color name="pink_3">#dea0a0</color>
+    <color name="pink_4">#d17a7a</color>
+    <color name="pink_5">#c45454</color>
+
+
+
+</resources>

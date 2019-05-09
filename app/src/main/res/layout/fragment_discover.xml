@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment.DiscoverFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingTop="25dp"
+            android:paddingRight="15dp"
+            android:paddingBottom="25dp"
+            android:text="Discover"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:text="@string/lirik"
+            android:textSize="13sp" />
+
+        <!--<Button
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/style_button_round"
+            android:layout_margin="20dp"/>-->
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="0dp">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card_chapter_1"
+                    android:layout_width="300dp"
+                    android:layout_height="150dp"
+                    android:layout_margin="10dp"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    app:cardBackgroundColor="@color/swatch1_2"
+                    app:cardCornerRadius="20dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:fadeScrollbars="true">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_margin="10dp"
+                            android:text="Chapter 1"
+                            android:textColor="@android:color/white"
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                        <ImageButton
+                            android:id="@+id/ic_info_chapter1"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/ic_discover_info"
+                            android:background="@android:color/transparent"
+                            android:layout_margin="10dp"/>
+
+                        <TextView
+                            android:id="@+id/txt_card_title1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:padding="15dp"
+                            android:text="Understanding depression"
+                            android:textSize="18sp"
+                            android:textStyle="bold"/>
+
+                    </RelativeLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card_chapter_2"
+                    android:layout_width="300dp"
+                    android:layout_height="150dp"
+                    android:layout_margin="10dp"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    app:cardBackgroundColor="@color/swatch1_3"
+                    app:cardCornerRadius="20dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_margin="10dp"
+                            android:text="Chapter 2"
+                            android:textColor="@android:color/white"
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                        <ImageButton
+                            android:id="@+id/ic_info_chapter2"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/ic_discover_info"
+                            android:background="@android:color/transparent"
+                            android:layout_margin="10dp"/>
+
+                        <TextView
+                            android:id="@+id/txt_card_title2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Depression affects people in different ways"
+                            android:layout_alignParentBottom="true"
+                            android:padding="15dp"
+                            android:textSize="18sp"
+                            android:textStyle="bold"/>
+
+                    </RelativeLayout>
+
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card_chapter_3"
+                    android:layout_width="300dp"
+                    android:layout_height="150dp"
+                    android:layout_margin="10dp"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    app:cardBackgroundColor="@color/swatch1_4"
+                    app:cardCornerRadius="20dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_margin="10dp"
+                            android:text="Chapter 3"
+                            android:textColor="@android:color/white"
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                        <ImageButton
+                            android:id="@+id/ic_info_chapter3"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/ic_discover_info"
+                            android:background="@android:color/transparent"
+                            android:layout_margin="10dp"/>
+
+                        <TextView
+                            android:id="@+id/txt_card_title3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Depression affects people in different ways"
+                            android:layout_alignParentBottom="true"
+                            android:padding="15dp"
+                            android:textSize="18sp"
+                            android:textStyle="bold"/>
+
+                    </RelativeLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card_chapter_4"
+                    android:layout_width="300dp"
+                    android:layout_height="150dp"
+                    android:layout_margin="10dp"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    app:cardBackgroundColor="@color/swatch1_5"
+                    app:cardCornerRadius="20dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_margin="10dp"
+                            android:text="Chapter 4"
+                            android:textColor="@android:color/white"
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                        <ImageButton
+                            android:id="@+id/ic_info_chapter4"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/ic_discover_info"
+                            android:background="@android:color/transparent"
+                            android:layout_margin="10dp"/>
+
+                        <TextView
+                            android:id="@+id/txt_card_title4"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Depression affects people in different ways"
+                            android:layout_alignParentBottom="true"
+                            android:padding="15dp"
+                            android:textSize="18sp"
+                            android:textStyle="bold"/>
+
+                    </RelativeLayout>
+
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card_chapter_5"
+                    android:layout_width="300dp"
+                    android:layout_height="150dp"
+                    android:layout_margin="10dp"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    app:cardBackgroundColor="@color/swatch1_7"
+                    app:cardCornerRadius="20dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentTop="true"
+                            android:layout_margin="10dp"
+                            android:text="Chapter 5"
+                            android:textColor="@android:color/white"
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                        <ImageButton
+                            android:id="@+id/ic_info_chapter5"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/ic_discover_info"
+                            android:background="@android:color/transparent"
+                            android:layout_margin="10dp"/>
+
+                        <TextView
+                            android:id="@+id/txt_card_title5"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Depression affects people in different ways"
+                            android:layout_alignParentBottom="true"
+                            android:padding="15dp"
+                            android:textSize="18sp"
+                            android:textStyle="bold"/>
+
+                    </RelativeLayout>
+
+                </android.support.v7.widget.CardView>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+
+    <!--    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Discover String" />-->
+
+</LinearLayout>

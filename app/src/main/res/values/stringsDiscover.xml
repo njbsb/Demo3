@@ -1,0 +1,162 @@
+<resources>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_chapter1">
+        Chapter 1: Understanding Depression
+    </string>
+    <string name="chapter1_content1">
+        \n<b>Sadness</b> is something we all experience. It is a normal reaction to
+        difficult times in life and usually passes with a little time.
+        \n\nWhen a person has depression, it interferes with daily life and normal
+        functioning.
+        \n\nIt can cause pain for both the person with depression and
+        those who care about him or her. Doctors call this condition
+        “depressive disorder,” or “clinical depression.” It is a real illness.
+        \n\nIt is not a sign of a person’s weakness or a character flaw. You can’t “snap
+        out of” clinical depression.
+        \n\nMost people who experience depression
+        need treatment to get better.
+    </string>
+    <string name="chapter1_content2">
+        \n<b>Signs and Symptoms</b>
+        \n\nSadness is only a small part of depression.
+        \n\nSome people with
+        depression may not feel sadness at all.
+        \n\nDepression has many other
+        symptoms, including physical ones.
+        \n\nIf you have been experiencing any of
+        the following signs and symptoms for at least 2 weeks, you may be
+        suffering from depression:
+
+        \n\n• Persistent sad, anxious, or “empty” mood
+        \n• Feelings of hopelessness, pessimism
+        \n• Feelings of guilt, worthlessness, helplessness
+        \n• Loss of interest or pleasure in hobbies and activities
+        \n• Decreased energy, fatigue, being “slowed down”
+        \n• Difficulty concentrating, remembering, making decisions
+        \n• Difficulty sleeping, early-morning awakening, or oversleeping
+        \n• Appetite and/or weight changes
+        \n• Thoughts of death or suicide, suicide attempts
+        \n• Restlessness, irritability
+        \n• Persistent physical symptoms
+    </string>
+    <string name="chapter1_content3">
+        \n<b>Major</b> depression: Severe symptoms that interfere with the ability
+        to work, sleep, study, eat, and enjoy life. An episode can occur only
+        once in a person’s lifetime, but more often, a person has several episodes.
+
+        \n\n<b>Persistent depressive disorder:</b> A depressed mood that lasts for at
+        least 2 years. A person diagnosed with persistent depressive disorder
+        may have episodes of major depression along with periods of less
+        severe symptoms, but symptoms must last for 2 years.
+        Some forms of depression are slightly different, or they may develop
+        under unique circumstances. They include:
+
+        \n\n<b>Psychotic depression</b>, which occurs when a person has severe
+        depression plus some form of psychosis, such as having disturbing false
+        beliefs or a break with reality (delusions), or hearing or seeing
+        upsetting things that others cannot hear or see (hallucinations).
+
+        \n\n<b>Postpartum depression</b>, which is much more serious than the
+        “baby blues” that many women experience after giving birth, when
+        hormonal and physical changes and the new responsibility of caring for
+        a newborn can be overwhelming. It is estimated that 10 to 15 percent
+        of women experience postpartum depression after giving birth.
+
+        \n\n<b>Seasonal affective disorder (SAD)</b>, which is characterized by the
+        onset of depression during the winter months, when there is less
+        natural sunlight. The depression generally lifts during spring and
+        summer. SAD may be effectively treated with light therapy, but nearly
+        half of those with SAD do not get better with light therapy alone.
+        Antidepressant medication and psychotherapy can reduce SAD
+        symptoms, either alone or in combination with light therapy.
+
+        \n\n<b>Bipolar disorder</b> is different from depression. The reason it is included
+        in this list is because someone with bipolar disorder experiences
+        episodes of extreme low moods (depression). But a person with
+        bipolar disorder also experiences extreme high moods (called “mania”).
+    </string>
+
+    <string name="title_chapter2">
+        Chapter 2: Depression affects people in different ways
+    </string>
+    <string name="chapter2_content1"><b>Women</b>
+        \n\nWomen with depression do not all experience the same symptoms.
+        However, women with depression typically have symptoms of sadness,
+        worthlessness, and guilt.
+        \n\nDepression is more common among women than
+        among men. Biological, lifecycle, hormonal, and
+        psychosocial factors that are unique to women
+        may be linked to their higher depression rate.
+        For example, women are especially vulnerable to
+        developing postpartum depression after giving
+        birth, when hormonal and physical changes and
+        the new responsibility of caring for a newborn
+        can be overwhelming.
+    </string>
+    <string name="chapter2_content2"><b>Men</b>
+        \n\nMen often experience depression differently than
+        women. While women with depression are more
+        likely to have feelings of sadness, worthlessness, and
+        excessive guilt, men are more likely to be very tired,
+        irritable, lose interest in once-pleasurable activities,
+        and have difficulty sleeping.
+
+        \n\nMen may turn to alcohol or drugs when they are
+        depressed. They also may become frustrated,
+        discouraged, irritable, angry, and sometimes
+        abusive. Some men may throw themselves into
+        their work to avoid talking about their depression
+        with family or friends, or behave recklessly. And
+        although more women attempt suicide, many more
+        men die by suicide in the United States.
+    </string>
+    <string name="chapter2_content3">
+        <b>Children</b>
+        Before puberty, girls and boys are equally likely to
+        develop depression. A child with depression may
+        pretend to be sick, refuse to go to school, cling to
+        a parent, or worry that a parent may die. Because
+        normal behaviors vary from one childhood stage
+        to another, it can be difficult to tell whether a child is just going through
+        a temporary “phase” or is suffering from depression.
+        \n\nSometimes the
+        parents become worried about how the child’s behavior has changed,
+        or a teacher mentions that “your child doesn’t seem to be himself.” In
+        such a case, if a visit to the child’s pediatrician rules out physical symptoms,
+        the doctor will probably suggest that the child be evaluated, preferably
+        by a mental health professional who specializes in the treatment of
+        children. Most chronic mood disorders,
+    </string>
+    <string name="chapter2_content4"><b>Teens</b>
+        \n\nThe teen years can be tough. Teens are forming an identity apart from
+        their parents, grappling with gender issues and emerging sexuality, and
+        making independent decisions for the first time in their lives. Occasional
+        bad moods are to be expected, but depression is different.
+    </string>
+    <string name="chapter2_content5"><b>Older People</b>
+        \n\nHaving depression for a long period of time is not a normal part of
+        growing older. Most older adults feel satisfied with their lives, despite
+        having more illnesses or physical problems. But depression in older
+        adults may be difficult to recognize because they may show different,
+        less obvious symptoms.
+        \n\nSometimes older people who are depressed appear to feel tired, have
+        trouble sleeping, or seem grumpy and irritable. Confusion or attention
+        problems caused by depression can sometimes look like Alzheimer’s
+        disease or other brain disorders. Older adults also may have more
+        medical conditions such as heart disease, stroke, or cancer, which may
+        cause depressive symptoms. Or they may be taking medications with
+        side effects that contribute to depression.
+    </string>
+
+    <string name="title_chapter3">
+        Chapter 3: Depression is treatable
+    </string>
+    <string name="chapter3_content1"><b>Tests and Diagnosis</b>
+        \n\nYour doctor or health care provider will examine you and talk to you at the appointment. Your doctor may do a physical exam and ask questions
+        about your health and symptoms. There are no lab tests that can specifically diagnose depression, but your doctor may also order some lab tests to rule out other conditions.
+    </string>
+
+
+</resources>

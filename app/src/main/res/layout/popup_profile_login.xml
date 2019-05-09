@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:layout_gravity="center"
+    android:elevation="10dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/swatch1_4"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center"
+        >
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/ic_nav_landscape"
+            android:tint="@color/swatch1_1"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/swatch1_1"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/popup_login"
+            android:gravity="center"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="14dp"/>
+
+        <Button
+            android:id="@+id/btn_popup_login"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="Log in"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white"
+            android:background="@drawable/style_button_rounded_edge"/>
+        <TextView
+            android:id="@+id/tv_popup_notNow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Not now"
+            android:textSize="11sp"
+            android:layout_marginTop="5dp"
+            />
+    </LinearLayout>
+
+</LinearLayout>

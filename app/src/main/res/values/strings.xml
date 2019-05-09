@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lirik">Dan mungkin bila nanti kita kan bertemu lagi satu pintaku jangan kau coba tanyakan kembali rasa yang ku tinggal mati seperti hari kemarin saat semua di sini aaaaaaaaaa</string>
+    <string name="popup_login">Welcome to MoodSwinger mobile app. To continue using this app, we need you to be logged in first.</string>
+    <string name="result">Result</string>
+    <string name="stage_1">Stage 1</string>
+    <string name="popup_new_assessment">You are going to overwrite  \nthe existing record data.</string>
+</resources>

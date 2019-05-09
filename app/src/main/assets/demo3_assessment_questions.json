@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "q1": "I am sad once in a while",
+    "q2": "I am sad many times",
+    "q3": "I am sad all the time"
+  },
+  {
+    "id": "2",
+    "q1": "Nothing will ever work out for me",
+    "q2": "I am not sure if things will work out for me",
+    "q3": "Thing will work out for me OK"
+  },
+  {
+    "id": "3",
+    "q1": "I do most things ok",
+    "q2": "I do many things wrong",
+    "q3": "I do everything wrong"
+  },
+  {
+    "id": 4,
+    "q1": "I have fun in many things",
+    "q2": "I have fun in some things",
+    "q3": "Nothing is fun at all"
+  },
+  {
+    "id": 5,
+    "q1": "I am important to my family",
+    "q2": "I am not sure if I am important to my family",
+    "q3": "My family is better off without me"
+  },
+  {
+    "id": 6,
+    "q1": "I hate myself",
+    "q2": "I do not like myself",
+    "q3": "I like myself"
+  },
+  {
+    "id": 7,
+    "q1": "All bad things are my fault",
+    "q2": "Many bad things are my fault",
+    "q3": "Bad things are not usually my fault"
+  },
+  {
+    "id": 8,
+    "q1": "I do not think about killing myself",
+    "q2": "I think about killing myself but would not do it",
+    "q3": "I want to kill myself"
+  },
+  {
+    "id": 9,
+    "q1": "I feel like crying everyday",
+    "q2": "I feel like crying many days",
+    "q3": "I feel like crying once in a while"
+  },
+  {
+    "id": 10,
+    "q1": "I feel cranky all the time",
+    "q2": "I feel cranky many times",
+    "q3": "I am almost never cranky"
+  },
+  {
+    "id": 11,
+    "q1": "I cannot make up my mind about things",
+    "q2": "It is hard to make up my mind about things",
+    "q3": "I make up my mind about things easily"
+  },
+  {
+    "id": 12
+  }
+]
